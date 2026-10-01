@@ -1007,5 +1007,14 @@
         <option name="FOREGROUND" value="F57F17" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_MARKUP" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="DOC_CODE_INLINE" baseAttributes="DEFAULT_STRING" />
+    <option name="DOC_CODE_BLOCK" baseAttributes="DEFAULT_STRING" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="DEFAULT_METADATA" baseAttributes="DEFAULT_CLASS_REFERENCE" />
+    <option name="DEFAULT_TAG" baseAttributes="DEFAULT_CLASS_REFERENCE" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_CONSTANT" />
   </attributes>
 </scheme>
