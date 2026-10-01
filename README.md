@@ -33,3 +33,8 @@ gradle buildPlugin
 ```
 
 The installable ZIP will be generated under `build/distributions/`.
+
+
+## 0.1.1
+
+Refines JetBrains UI colors, expands generic language fallbacks, and restores dedicated Kotlin `const val` constant highlighting.
