@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "org.haokee"
-version = "0.1.0"
+version = "0.1.1"
 
 repositories {
   mavenCentral()
@@ -16,6 +16,7 @@ repositories {
 dependencies {
   intellijPlatform {
     intellijIdea("2026.2.3")
+    bundledPlugin("org.jetbrains.kotlin")
   }
 }
 
