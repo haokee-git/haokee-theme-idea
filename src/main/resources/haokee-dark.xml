@@ -799,9 +799,7 @@
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="4DD0E1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_PARAMETER">
       <value>
