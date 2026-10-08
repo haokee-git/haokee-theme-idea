@@ -19,7 +19,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="82B1FF" />
+        <option name="FOREGROUND" value="6EA8FF" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -34,7 +34,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="82B1FF" />
+        <option name="FOREGROUND" value="6EA8FF" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -123,25 +123,25 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -242,24 +242,24 @@
     </option>
     <option name="OC.TEMPLATE_VALUE">
       <value>
-        <option name="FOREGROUND" value="82B1FF" />
+        <option name="FOREGROUND" value="6EA8FF" />
       </value>
     </option>
     <option name="OC.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.METHOD_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -270,12 +270,12 @@
     </option>
     <option name="OC.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="82B1FF" />
+        <option name="FOREGROUND" value="6EA8FF" />
       </value>
     </option>
     <option name="OC.EXTERN_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="82B1FF" />
+        <option name="FOREGROUND" value="6EA8FF" />
       </value>
     </option>
     <option name="OC.PARAMETER">
@@ -576,49 +576,49 @@
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -871,55 +871,55 @@
     </option>
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_SUSPEND_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
       <value>
-        <option name="FOREGROUND" value="8C9EFF" />
+        <option name="FOREGROUND" value="A8A2FF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
